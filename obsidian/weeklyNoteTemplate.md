@@ -10,6 +10,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ## 今週の体調
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>#### 体調]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>#### 体調]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>#### 体調]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>#### 体調]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>#### 体調]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>#### 体調]]
@@ -17,6 +19,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ## 今週のよかったこと総括
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>### よかったこと]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>### よかったこと]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>### よかったこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>### よかったこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>### よかったこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>### よかったこと]]
@@ -24,6 +28,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ## 今週の悪かったこと総括
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>### 悪かったこと]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>### 悪かったこと]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>### 悪かったこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>### 悪かったこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>### 悪かったこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>### 悪かったこと]]
@@ -31,6 +37,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ## 今週完了したこと
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>### 今日完了させたいこと]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>### 今日完了させたいこと]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>### 今日完了させたいこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>### 今日完了させたいこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>### 今日完了させたいこと]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>### 今日完了させたいこと]]
@@ -38,6 +46,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ### 今週の設計
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>#### 設計考える場所]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>#### 設計考える場所]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>#### 設計考える場所]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>#### 設計考える場所]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>#### 設計考える場所]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>#### 設計考える場所]]
@@ -45,6 +55,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ## 今週の学び
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>### 学び]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>### 学び]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>### 学び]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>### 学び]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>### 学び]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>### 学び]]
@@ -59,6 +71,8 @@ ID : {{date:YYYYMMDDHHmm}}
 
 ## 今週のつぶやき
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -7) %>## つぶやき]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -6) %>## つぶやき]]
+![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -5) %>## つぶやき]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -4) %>## つぶやき]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -3) %>## つぶやき]]
 ![[daily/<% tp.date.now("YYYY/MM/YYYY-MM-DD", -2) %>## つぶやき]]
