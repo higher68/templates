@@ -6,6 +6,13 @@ ID : {{date:YYYYMMDDHHmm}}
 今年の目標：  
 - [[2024年12月にありたい姿（目標）]]　
 
+<%*
+// https://momentjs.com/docs/#/displaying/fromnow/
+const goalName = "AWS CSS"
+// なんかわからんけどmonthが0オリジンでキモい
+const now = moment([2024, 9, 29]).fromNow(true);
+tR += `#### ${goalName}まで${now}`
+%>
 #### 天気
 #### 体調
   - メンタル総括：
