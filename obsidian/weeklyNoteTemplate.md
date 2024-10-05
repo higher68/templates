@@ -1,7 +1,7 @@
 作成日時: {{date:YYYY年MM月DD日（ddd）hh:mm}}  
 
 
-tags: #{{date:YYYY-MM}} #daily  
+tags: #{{date:YYYY-MM}} #weekly  
 ID : {{date:YYYYMMDDHHmm}}
 
 今年の目標：  
