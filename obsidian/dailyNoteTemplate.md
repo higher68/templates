@@ -8,7 +8,7 @@ ID : {{date:YYYYMMDDHHmm}}
 
 <%*
 // https://momentjs.com/docs/#/displaying/fromnow/
-const goalName = "AWS CSS"
+const goalName = "AWS SCS-02"
 // なんかわからんけどmonthが0オリジンでキモい
 const now = moment([2024, 9, 29]).fromNow(true);
 tR += `#### ${goalName}まで${now}`
