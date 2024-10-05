@@ -28,7 +28,7 @@ const weekDaysMeta = [...Array(7).keys()].map(n => {
 		dayString: day.format("YYYY-MM-DD"),
 		dailyNotePath: day.format("YYYY/MM/YYYY-MM-DD")
 	}})
-console.log(weekDaysMeta)
+
 tR += '## 今週の体調\n'
 weekDaysMeta.map(weekDayMeta => {
 	tR += weekDayMeta.dayString
